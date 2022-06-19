@@ -14,7 +14,7 @@ import paquete5.Persona;
 public class Prestamo {
 
     protected Persona beneficiario;
-    public int prestamoM;
+    protected int prestamoM;
     protected String ciudad;
 
     public Prestamo(Persona b, int p, String c) {
